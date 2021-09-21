@@ -7,6 +7,7 @@
 - 🎓 &nbsp; Im still at highschool, so I only do this for fun.
 - 💼 &nbsp; Currently working in the CramBot project.
 - 🌱 &nbsp; Learning more about Java, NodeJS and MySQL.
+- 😼 &nbsp; Also I'm a gay furry
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
