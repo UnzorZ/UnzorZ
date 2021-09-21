@@ -1,5 +1,3 @@
-<img src="">
-
 <img alt="Night Coding" src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif?raw=true" width='60' align="left"/><h2>Hey there! I'm Unzor</h2>
 <!-- ## 👋 &nbsp;Hey there! I'm Unzor -->
 
