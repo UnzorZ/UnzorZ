@@ -23,7 +23,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/jetbrains/plugin/v/12024-cognitivecomplexity.svg?label=Intellij-IDEA&logoColor=007396)
+  ![Intellij-IDEA](https://img.shields.io/jetbrains/plugin/v/12024-cognitivecomplexity.svg?label=Intellij-IDEA&logoColor=007396?style=flat)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
