@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Im still at highschool, so I only do this for fun.
-- 💼 &nbsp; Currently working in the CramBot project.
+- 💼 &nbsp; Currently working in the CramBot and DiscordRPC project.
 - 🌱 &nbsp; Learning more about Java, NodeJS and MySQL.
 - 😼 &nbsp; Also I'm a gay furry
 
