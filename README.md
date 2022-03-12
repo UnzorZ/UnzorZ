@@ -30,7 +30,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="https://www.uwunzor.net/"><img alt="Website" src="https://img.shields.io/badge/Website-www.uwunzor.net-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://furry.uwunzor.net/"><img alt="Website" src="https://img.shields.io/badge/Website-www.uwunzor.net-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:anarquiamc@uwunzor.net"><img alt="Email" src="https://img.shields.io/badge/Email-anarquiamc@uwunzor.net-blue?style=flat-square&logo=gmail"></a>
 </p>
  
