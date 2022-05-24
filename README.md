@@ -1,9 +1,6 @@
 <img alt="Night Coding" src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif?raw=true" width='60' align="left"/><h2>Hey there! I'm Unzor</h2>
 <!-- ## 👋 &nbsp;Hey there! I'm Unzor -->
 
-<a href="https://twitter.com/unzorfox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unzorfox" height="30" width="40" /></a>
-</p>
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -18,9 +15,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unzorz" alt="unzorz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/unzorfox" target="blank"><img src="https://img.shields.io/twitter/follow/unzorfox?logo=twitter&style=for-the-badge" alt="unzorfox" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+
+<p align="left"> <a href="https://twitter.com/unzorfox" target="blank"><img src="https://img.shields.io/twitter/follow/unzorfox?logo=twitter&style=for-the-badge" alt="unzorfox" /></a> </p>
+
 <p align="left">
 
 
