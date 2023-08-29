@@ -8,7 +8,6 @@
 - 💼 &nbsp; Currently working in the CramBot and DiscordRPC project.
 - 🌱 &nbsp; Learning more about Java, NodeJS and MySQL.
 - 😼 &nbsp; Also I'm a gay furry
-- 
 
 <h3 align="left">Connect with me:</h3>
 
