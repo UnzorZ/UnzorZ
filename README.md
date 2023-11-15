@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Im still at highschool, so I only do this for fun.
 - 💼 &nbsp; Currently working in the CramBot and DiscordRPC project.
 - 🌱 &nbsp; Learning more about Java, NodeJS and MySQL.
-- 😼 &nbsp; Also I'm a gay furry
+- 😼 &nbsp; Also I'm a furry
 
 <h3 align="left">Connect with me:</h3>
 
