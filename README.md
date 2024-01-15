@@ -29,7 +29,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="https://unzor.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-www.carrd.unzor.xyz-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://unzor.xyz/"><img alt="Website" src="https://img.shields.io/badge/Website-www.unzor.xyz-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:unzor@unzor.xyz"><img alt="Email" src="https://img.shields.io/badge/Email-unzor@unzor.xyz-blue?style=flat-square&logo=gmail"></a>
 </p>
  
