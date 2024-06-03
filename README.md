@@ -3,6 +3,7 @@
 # 💫 About Me:
 🌱 I’m currently learning about Spring and Python<br>
 💬 Ask me about anything :)<br>
+🙊 Currently working on F-Drive proyect (Spring)
 ⚡ Fun fact: im a furry :p
 
 ## 🌐 Socials:
